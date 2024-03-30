@@ -175,7 +175,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-``c
+```c
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
