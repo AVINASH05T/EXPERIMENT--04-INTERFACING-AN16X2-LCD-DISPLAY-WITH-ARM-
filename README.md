@@ -135,6 +135,7 @@ Jump to second line, position 2
 16. click on debug and simulate using simulation 
 
 ## STM 32 CUBE PROGRAM :
+```c
 #include "main.h"
 
 #include "lcd.h"
@@ -265,7 +266,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
-
+```
 
 
 
